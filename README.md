@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sebasmadrizz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">Skills</h2>
 
 ###
@@ -87,6 +81,13 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/sebasmadrizz/sebasmadrizz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+</div>
 
 ###
