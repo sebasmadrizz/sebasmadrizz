@@ -81,13 +81,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sebasmadrizz/sebasmadrizz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
+  <img height="200" src="https://m.media-amazon.com/images/S/pv-target-images/d1c020bfb0466e150d000139c3670cb040cee0ced19b223accae9261e4b93c63._UR300,300_BL99_UR640,360_CLs%7C640,360%7C/d1c020bfb0466e150d000139c3670cb040cee0ced19b223accae9261e4b93c63.jpg%7C0,0,640,360+0,0,640,360_BR-6_AC_SX720_FMjpg_.jpg"  />
 </div>
 
 ###
