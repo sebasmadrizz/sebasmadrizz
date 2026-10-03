@@ -1,7 +1,7 @@
 <h1 align="center">Sebastian Madriz</h1>
 
 <p align="center">
-  Systems Engineering graduate · Databases, data and infrastructure<br/>
+  Systems Engineering · Data, Databases &amp; Full Stack Development<br/>
   Cartago, Costa Rica
 </p>
 
@@ -15,9 +15,19 @@
 <h2 align="center">About me</h2>
 
 <p align="center">
-  Systems Engineering student at Universidad Fidélitas (Costa Rica), graduating in October 2026.<br/>
-  I focus on database design and optimization, working with data, and cloud infrastructure,<br/>
-  with full stack development as a complement. I am looking for my first professional role in tech.
+  I design and build data-driven software: from normalized SQL Server and PostgreSQL schemas<br/>
+  to the APIs and interfaces that put that data to work. I have delivered full stack platforms<br/>
+  on ASP.NET Core and Azure, and I build end-to-end data projects with Python, FastAPI and React.<br/><br/>
+  Systems Engineering at Universidad Fidélitas, graduating in October 2026.<br/>
+  <b>Open to opportunities in data, database and software development roles.</b>
+</p>
+
+<h2 align="center">What I do</h2>
+
+<p align="center">
+  <b>Data &amp; databases</b> · normalized schemas, T-SQL, indexing, stored procedures, SQL feature stores<br/>
+  <b>Backend &amp; APIs</b> · ASP.NET Core, FastAPI, REST APIs, integration between services<br/>
+  <b>Frontend &amp; delivery</b> · React dashboards, Azure deployments, Docker, Git
 </p>
 
 <h2 align="center">Stack</h2>
