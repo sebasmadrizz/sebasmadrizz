@@ -18,7 +18,7 @@
   I design and build data-driven software: from normalized SQL Server and PostgreSQL schemas<br/>
   to the APIs and interfaces that put that data to work. I have delivered full stack platforms<br/>
   on ASP.NET Core and Azure, and I build end-to-end data projects with Python, FastAPI and React.<br/><br/>
-  Systems Engineering at Universidad Fidélitas, graduating in October 2026.<br/>
+  Systems Engineer — Universidad Fidélitas.<br/>
   <b>Open to opportunities in data, database and software development roles.</b>
 </p>
 
